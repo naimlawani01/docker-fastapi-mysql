@@ -13,11 +13,12 @@ Clonez le dépôt :
 
 ```
 
-git 
+git https://github.com/naimlawani01/docker-fastapi-mysql.git
+
 ````
 
 ```
-cd 
+cd docker-fastapi-mysql.git
 
 ```
 
